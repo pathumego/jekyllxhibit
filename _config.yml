@@ -1,6 +1,6 @@
 permalink: none
 exclude: [ "sass", "CNAME", "config.rb", "LICENSE", "README.md", "_assets", "Gemfile", "Gemfile.lock", "rakefile" ]
-
+base_url: /jekyllxhibit
 
 prose:
  rooturl: "_posts/"
